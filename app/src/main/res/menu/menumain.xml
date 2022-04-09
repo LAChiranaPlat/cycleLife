@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/m1" app:showAsAction="ifRoom" android:icon="@drawable/iconmenu">
+
+        <menu>
+            <item android:id="@+id/a" android:title="System A" android:icon="@drawable/face" />
+            <item android:id="@+id/b" android:title="Aplicaciones" android:icon="@drawable/tt" />
+            <item android:id="@+id/c" android:title="Configuración" android:icon="@drawable/phone" />
+            <item android:id="@+id/d" android:title="Seguridad" />
+            <item android:id="@+id/e" android:title="Salir" />
+        </menu>
+
+    </item>
+
+
+
+</menu>

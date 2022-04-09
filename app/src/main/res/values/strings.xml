@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cycleLife</string>
+    <string name="btnMain">Ingresar</string>
+    <string name="mensajeAlerta">Atención</string>
+    <string name="no">No Acepto</string>
+    <string name="si">Acepto</string>
+    <string name="m1">Sistema A</string>
+</resources>
